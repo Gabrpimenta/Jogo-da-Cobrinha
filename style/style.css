@@ -1,0 +1,17 @@
+body {
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  font-family: "Acme", sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    background: -webkit-linear-gradient(rgb(2, 204, 2), rgb(8, 8, 8));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
